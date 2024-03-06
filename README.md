@@ -35,10 +35,10 @@ A react app that uses Material UI and the RapidAPI to search for gyms in your ar
 4. Make a .env file and put your RapidAPI Key here: VITE_RAPID_API_EXERCISE_KEY=<key>
 5. Run `npm start` to see the app at `http://localhost:3000`.
 
-## Usage
+### Usage
 
-The app allows you to search for gyms in your area and get information about the gyms. You can filter the results by location, price, and the type of gym.
-
+This app allows you to search for exercises and get information about how to perform them.
+When you enter a specific exercise or equipment, you can check out how it's done by watching videos and getting similar exercises or equipment recommendations.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
