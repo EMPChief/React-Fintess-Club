@@ -1,5 +1,4 @@
 # React-Fitness-Club
-
 A react app that uses Material UI and the RapidAPI to search for gyms in your area and get information about the gyms. This app uses the following dependencies:
 
 - `@emotion/react` version `11.11.4`
@@ -11,6 +10,9 @@ A react app that uses Material UI and the RapidAPI to search for gyms in your ar
 - `react-loader-spinner` version `6.1.6`
 - `react-router-dom` version `6.22.2`
 - `react-scripts` version `5.0.1`
+
+## [Demo](https://fitness.empchief.com/)
+
 
 ## Table of Contents
 
