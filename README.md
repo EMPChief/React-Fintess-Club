@@ -24,8 +24,8 @@ A react app that uses Material UI and the RapidAPI to search for gyms in your ar
 
 ## Dependencies
 
-- [RapidAPI](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
-- [Youtube Search and Download](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/)
+- [ExerciseDB - RapidAPI](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
+- [Youtube Search and Download - RapidAPI](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/)
 
 ## Installation
 
